@@ -1,0 +1,58 @@
+# Date: Fri 30 Jan 2026 23:03:35 UTC
+# Number of unique domains: 50
+#
+# Based on intelligence from https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
+# Fetch the latest version of this file: https://raw.githubusercontent.com/fukawi2/ipideaBlocklist/master/hosts
+# Home page: https://github.com/fukawi2/ipideaBlocklist
+#
+
+0.0.0.0  00857cca77b615c369f48ead5f8eb7f3.com
+0.0.0.0  0aa0cf0637d66c0d.com
+0.0.0.0  31d58c226fc5a0aa976e13ca9ecebcc8.com
+0.0.0.0  360proxy.com
+0.0.0.0  3k7m1n9p4q2r6s8t0v5w2x4y6z8u9.com
+0.0.0.0  442fe7151fb1e9b5.com
+0.0.0.0  6b86b273ff34fce1.online
+0.0.0.0  7x2k9n4p1q0r5s8t3v6w0y2z4u7b9.com
+0.0.0.0  8b21a945159f23b740c836eb50953818.com
+0.0.0.0  8f00b204e9800998.com
+0.0.0.0  922proxy.com
+0.0.0.0  a7b37115ce3cc2eb.com
+0.0.0.0  a8d3b9e1f5c7024d6e0b7a2c9f1d83e5.com
+0.0.0.0  aa86a52a98162b7d.com
+0.0.0.0  abcproxy.com
+0.0.0.0  af4760df2c08896a9638e26e7dd20aae.com
+0.0.0.0  api-seed.packetsdk.io
+0.0.0.0  api-seed.packetsdk.net
+0.0.0.0  api-seed.packetsdk.xyz
+0.0.0.0  asdk2.com
+0.0.0.0  b5e9a2d7f4c8e3b1a0d6f2e9c5b8a7d.com
+0.0.0.0  bdrv7wlbszfotkqf.uk
+0.0.0.0  BdRV7WlBszfOTkqF.uk
+0.0.0.0  castarsdk.com
+0.0.0.0  cfe47df26c8eaf0a7c136b50c703e173.com
+0.0.0.0  cherryproxy.com
+0.0.0.0  dispatch1.hexsdk.com
+0.0.0.0  doorvpn.com
+0.0.0.0  e4f8c1b9a2d7e3f6c0b5a8d9e2f1c4d.com
+0.0.0.0  earnsdk.io
+0.0.0.0  galleonvpn.com
+0.0.0.0  galleonvpn.com
+0.0.0.0  hexsdk.com
+0.0.0.0  holadns.com
+0.0.0.0  ip2world.com
+0.0.0.0  ipidea.io
+0.0.0.0  lunaproxy.com
+0.0.0.0  martianinc.co
+0.0.0.0  okamiboss.com
+0.0.0.0  packetsdk.com
+0.0.0.0  packetsdk.io
+0.0.0.0  packetsdk.net
+0.0.0.0  packetsdk.xyz
+0.0.0.0  piaproxy.com
+0.0.0.0  pyproxy.com
+0.0.0.0  radishvpn.com
+0.0.0.0  radishvpn.com
+0.0.0.0  tabproxy.com
+0.0.0.0  v46wd6uramzkmeeo.in
+0.0.0.0  willmam.com
