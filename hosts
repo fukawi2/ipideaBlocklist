@@ -1,5 +1,5 @@
 # Date: Fri 30 Jan 2026 23:03:35 UTC
-# Number of unique domains: 50
+# Number of unique domains: 48
 #
 # Based on intelligence from https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
 # Fetch the latest version of this file: https://raw.githubusercontent.com/fukawi2/ipideaBlocklist/master/hosts
@@ -37,7 +37,6 @@
 0.0.0.0  e4f8c1b9a2d7e3f6c0b5a8d9e2f1c4d.com
 0.0.0.0  earnsdk.io
 0.0.0.0  galleonvpn.com
-0.0.0.0  galleonvpn.com
 0.0.0.0  hexsdk.com
 0.0.0.0  holadns.com
 0.0.0.0  ip2world.com
@@ -51,7 +50,6 @@
 0.0.0.0  packetsdk.xyz
 0.0.0.0  piaproxy.com
 0.0.0.0  pyproxy.com
-0.0.0.0  radishvpn.com
 0.0.0.0  radishvpn.com
 0.0.0.0  tabproxy.com
 0.0.0.0  v46wd6uramzkmeeo.in
