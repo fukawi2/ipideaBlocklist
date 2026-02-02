@@ -1,0 +1,77 @@
+#
+# VPN Providers participating in IPIDEA
+#
+360 Proxy: 360proxy.com
+922 Proxy: 922proxy.com
+ABC Proxy: abcproxy.com
+Cherry Proxy: cherryproxy.com
+Door VPN: doorvpn.com
+Galleon VPN: galleonvpn.com
+IP 2 World: ip2world.com
+Ipidea: ipidea.io
+Luna Proxy: lunaproxy.com
+PIA S5 Proxy: piaproxy.com
+PY Proxy: pyproxy.com
+Radish VPN: radishvpn.com
+Tab Proxy: tabproxy.com
+Galleon VPN: galleonvpn.com
+Radish VPN: radishvpn.com
+
+#
+# Related SDK Websites
+#
+Castar SDK: castarsdk.com
+Earn SDK: earnsdk.io
+Hex SDK: hexsdk.com
+Packet SDK: packetsdk.com
+
+#
+# CCC Servers
+#
+PacketSDK: api-seed.packetsdk.xyz
+PacketSDK: api-seed.packetsdk.net
+PacketSDK: api-seed.packetsdk.io
+
+CastarSDK: dispatch1.hexsdk.com
+CastarSDK: cfe47df26c8eaf0a7c136b50c703e173.com
+CastarSDK: 8b21a945159f23b740c836eb50953818.com
+CastarSDK: 31d58c226fc5a0aa976e13ca9ecebcc8.com
+
+EarnSDK: holadns.com
+EarnSDK: martianinc.co
+EarnSDK: okamiboss.com
+
+BadBox2.0 botnet: v46wd6uramzkmeeo.in
+BadBox2.0 botnet: 6b86b273ff34fce1.online
+BadBox2.0 botnet: 0aa0cf0637d66c0d.com
+BadBox2.0 botnet: aa86a52a98162b7d.com
+BadBox2.0 botnet: 442fe7151fb1e9b5.com
+BadBox2.0 botnet: BdRV7WlBszfOTkqF.uk
+
+#
+# Network Indicators
+#
+Network Indicator: 00857cca77b615c369f48ead5f8eb7f3.com
+Network Indicator: 0aa0cf0637d66c0d.com
+Network Indicator: 31d58c226fc5a0aa976e13ca9ecebcc8.com
+Network Indicator: 3k7m1n9p4q2r6s8t0v5w2x4y6z8u9.com
+Network Indicator: 442fe7151fb1e9b5.com
+Network Indicator: 6b86b273ff34fce1.online
+Network Indicator: 7x2k9n4p1q0r5s8t3v6w0y2z4u7b9.com
+Network Indicator: 8b21a945159f23b740c836eb50953818.com
+Network Indicator: 8f00b204e9800998.com
+Network Indicator: a7b37115ce3cc2eb.com
+Network Indicator: a8d3b9e1f5c7024d6e0b7a2c9f1d83e5.com
+Network Indicator: aa86a52a98162b7d.com
+Network Indicator: af4760df2c08896a9638e26e7dd20aae.com
+Network Indicator: asdk2.com
+Network Indicator: b5e9a2d7f4c8e3b1a0d6f2e9c5b8a7d.com
+Network Indicator: bdrv7wlbszfotkqf.uk
+Network Indicator: cfe47df26c8eaf0a7c136b50c703e173.com
+Network Indicator: hexsdk.com
+Network Indicator: e4f8c1b9a2d7e3f6c0b5a8d9e2f1c4d.com
+Network Indicator: packetsdk.io
+Network Indicator: packetsdk.net
+Network Indicator: packetsdk.xyz
+Network Indicator: v46wd6uramzkmeeo.in
+Network Indicator: willmam.com
